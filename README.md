@@ -15,6 +15,7 @@ https://docs.unity3d.com/Manual/index.html
 https://docs.microsoft.com/en-us/dotnet/csharp/
 https://learn.unity.com/project/
 
+
 Project progress report-
 
 In the first 7 days, we have designed all the rooms in Unity with various assets.
@@ -29,6 +30,10 @@ Sania
 4. Mechanism to move the pieces.
 5. Mechanism to find the match.
 
+Ashwika
+~ Choosing assets for the Entrance, Bedroom and Kitchen
+~ Creating dialogue boxes for the Scenes
+~ Leaning the concept of Switching and Changing scenes
 
 
 
