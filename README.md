@@ -20,4 +20,14 @@ Project progress report-
 In the first 7 days, we have designed all the rooms in Unity with various assets.
 We have learned basics of C#, and we are trying to implement the match3 puzzle.
 
+Tasks done by each member as of now.
+Sania
+1. Started making the match 3 puzzle.
+2. Created the board with tiles for the game.
+3. Created a swipe controller.
+4. Mechanism to move the pieces.
+5. Mechanism to find the match.
+
+
+
 
