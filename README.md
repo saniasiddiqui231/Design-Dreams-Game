@@ -30,5 +30,9 @@ Sania
 5. Mechanism to find the match.
 
 
-
+Samridhi
+1. Working on the Match-3 puzzle game
+2. Created the basic structure of game.
+3. Trying to add more tiles and rows.
+4. Trying to import assests that is used in the game.
 
