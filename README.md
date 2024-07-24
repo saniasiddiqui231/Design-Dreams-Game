@@ -14,9 +14,9 @@ Ivy's parents are coming to visit her for the first time in years, and she wants
 
 To help Ivy fix her house, players must earn points by solving various engaging and challenging puzzles. These puzzles include:
 
-- **Wordle**: Test your vocabulary and deduction skills by guessing the correct word within a limited number of attempts. Each successful word guessed earns points that can be used to repair and upgrade different parts of Ivy's home.
+- **Wordle Wizardry**: Test your vocabulary and deduction skills by guessing the correct word within a limited number of attempts. Each successful word guessed earns points that can be used to repair and upgrade different parts of Ivy's home.
 
-- **Match Game**: Combine strategy and quick thinking to match three or more identical items in a row. Completing these puzzles rewards players with points and special bonuses to speed up Ivy's home improvement project.
+- **Match Magic**: Combine strategy and quick thinking to match three or more identical items in a row. Completing these puzzles rewards players with points and special bonuses to speed up Ivy's home improvement project.
 
 ### Home Decoration
 
