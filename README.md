@@ -50,6 +50,7 @@ As players accumulate points, they can choose which items to repair or purchase 
 - Navigate to the directory
 
 ``` cd mission-impractical```
+- Extract the folder DesignDreams
 
 - Open in Unity 6.
 
