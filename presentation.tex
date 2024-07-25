@@ -1,0 +1,263 @@
+\documentclass[10pt]{beamer}
+% \usepackage[utf8]{inputenc}
+% \usepackage{xeCJK}
+\usepackage{graphicx}
+\usepackage {mathtools}
+% \usepackage{utopia} %font utopia imported
+\usetheme{CambridgeUS}
+\usecolortheme{dolphin}
+
+% set colors
+\definecolor{myNewColorA}{RGB}{255,189,0}
+\definecolor{myNewcolorA}{RGB}{255,189,0}
+\definecolor{myNewcolorA}{RGB}{255,189,0}
+\setbeamercolor{block title}{bg=myNewColorA,fg=black}
+\setbeamercolor{block body}{bg=myNewColorA!20,fg=black}
+\setbeamercolor{block title alerted}{bg=black, fg=myNewColorA}
+\setbeamercolor{block body alerted}{bg=black!20, fg=black}
+
+\setbeamercolor*{block title example}{bg=myNewColorA, fg = black}
+\setbeamercolor*{block body example}{bg=myNewColorA!20, fg = black}
+\usebeamercolor[myNewColorA]{block title alerted}
+\setbeamercolor*{palette primary}{bg=myNewcolorA}
+\setbeamercolor*{palette secondary}{bg=myNewcolorA, fg = white}
+\setbeamercolor*{palette tertiary}{bg=myNewColorA, fg = white}
+\setbeamercolor*{titlelike}{fg=myNewColorA}
+\setbeamercolor*{title}{bg=myNewColorA}
+\setbeamercolor*{item}{fg=myNewColorA}
+\setbeamercolor*{caption name}{fg=myNewColorA}
+\usefonttheme{professionalfonts}
+\usepackage{natbib}
+\usepackage{hyperref}
+%------------------------------------------------------------
+\titlegraphic{\includegraphics[height=2.5cm]{logo.png}} 
+
+\setbeamerfont{title}{size=\large}
+\setbeamerfont{subtitle}{size=\small}
+\setbeamerfont{author}{size=\small}
+\setbeamerfont{date}{size=\small}
+\setbeamerfont{institute}{size=\small}
+\title[Tech Titans]{Project Design Dreams}
+\subtitle{ By- Team Tech Titans}
+\author[WE6]{Mini version inspired from Homescapes}
+
+\institute[]{Project Presentation}
+\date[\textcolor{white}{\today} ]
+{\today}
+
+%------------------------------------------------------------
+%This block of commands puts the table of contents at the 
+%beginning of each section and highlights the current section:
+%\AtBeginSection[]
+%{
+%  \begin{frame}
+%    \frametitle{Contents}
+%    \tableofcontents[currentsection]
+%  \end{frame}
+%}
+\AtBeginSection[]{
+  \begin{frame}
+  \vfill
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+    \usebeamerfont{title}\insertsectionhead\par%
+  \end{beamercolorbox}
+  \vfill
+  \end{frame}
+}
+%------------------------------------------------------------
+\begin{document}
+%The next statement creates the title page.
+\frame{\titlepage}
+\begin{frame}
+\frametitle{Table of Contents}
+\tableofcontents
+\end{frame}
+
+
+%------------------------------------------------------------
+\section{MEMBERS OF THE TEAM}
+
+\begin{frame}{Members}
+        \includegraphics[height=0.57\textwidth]{1.png}
+
+
+  
+\end{frame}
+
+\section{INTRODUCTION}
+    \begin{frame}{Introduction}
+    \frametitle{Introduction}
+        \begin{itemize}
+            \item Welcome to DESIGN DREAMS an exciting and engaging project inspired by the popular game Homescapes. 
+            \item This mini version captures the essence of the original game, bringing the fun of home renovation and puzzle-solving. 
+            \item The game has been developed using Unity and C\#.
+            
+        \end{itemize}
+    \end{frame}
+
+\section{JOURNEY}
+    \begin{frame}{Journey}
+        \includegraphics[height=0.57\textwidth]{_Roadmap (7).png}
+\end{frame}
+
+\section{DEMO}
+    \begin{frame}{DEMO}
+    \frametitle{DEMO}
+    We shall present the game.
+    \end{frame}
+
+
+\section{LEARNINGS}
+
+\begin{frame}{BASICS OF UNITY AND C\#}
+    \frametitle{BASICS OF UNITY AND C\#}
+    \begin{columns}
+    
+    \column{0.5\textwidth}
+    \begin{itemize}   
+    
+            \item Unity Interface
+            \item C\# Programming
+            \item Setting up Unity Projects
+            \item Organising Assets
+
+            \end{itemize}
+    \column{0.5\textwidth}
+        \begin{figure}
+        \includegraphics[height=0.8\textwidth]{C__Logo-removebg-preview.png}
+        \caption{BASICS OF UNITY AND C\#}
+        \end{figure}
+     \end{columns}
+\end{frame}
+\begin{frame}{MATCH MAGIC}
+    \frametitle{MATCH MAGIC}
+    \begin{columns}
+    
+    \column{0.5\textwidth}
+    \begin{itemize}
+    
+    
+            \item Grid System
+            \item Tile Matching
+            \item Tile Swapping
+
+            \end{itemize}
+    \column{0.5\textwidth}
+        \begin{figure}
+        \includegraphics[height=0.8\textwidth]{Screenshot (57).png}
+        \caption{MATCH MAGIC}
+        \end{figure}
+     \end{columns}
+\end{frame}
+\begin{frame}{WORDLE WIZADRY}
+    \frametitle{WORDLE WIZADRY}
+    \begin{columns}
+    
+    \column{0.5\textwidth}
+    \begin{itemize}
+    
+    
+            \item Word Input
+            \item Word Validation
+            \item UI Feedback
+            \end{itemize}
+    \column{0.5\textwidth}
+        \begin{figure}
+        \includegraphics[height=0.8\textwidth]{WORDLE.png}
+        \caption{WORDLE WIZADRY}
+        \end{figure}
+     \end{columns}
+\end{frame}
+\begin{frame}{COMBINING THE GAMES}
+    \frametitle{COMBINING THE GAMES}
+    \begin{columns}
+    
+    \column{0.5\textwidth}
+    \begin{itemize}
+    
+    
+            \item Game Flow
+            \item UI and Navigation
+            \end{itemize}
+    \column{0.5\textwidth}
+        \begin{figure}
+        \includegraphics[height=0.8\textwidth]{COMBINING (1).png}
+        \caption{COMBINING GAMES}
+        \end{figure}
+     \end{columns}
+\end{frame}
+\begin{frame}{Building Home Decor}
+    \frametitle{Building Home Decor}
+    \begin{columns}
+    
+    \column{0.5\textwidth}
+    \begin{itemize}
+    
+    
+            \item Multiple Option for User (panels)
+            \item Scenes Transition
+            \item Used various kind of components
+            \item Dialogue Boxes with timely animations
+            \end{itemize}
+    \column{0.5\textwidth}
+        \begin{figure}
+        \includegraphics[height=0.8\textwidth]{HomeDecor (1).png}
+        \caption{FEATURES}
+        \end{figure}
+     \end{columns}
+\end{frame}
+\begin{frame}{IMPLEMENTING ADDITIONAL FEATURES}
+    \frametitle{IMPLEMENTING ADDITIONAL FEATURES}
+    \begin{columns}
+    
+    \column{0.5\textwidth}
+    \begin{itemize}
+    
+    
+            \item Scoring System
+            \item Sound and Music
+            \item Graphics and Animations
+
+            \end{itemize}
+    \column{0.5\textwidth}
+        \begin{figure}
+        \includegraphics[height=0.8\textwidth]{Screenshot (71).png}
+        \caption{FEATURES}
+        \end{figure}
+     \end{columns}
+\end{frame}
+
+\section{CHALLENGES FACED}
+    \begin{frame}{Challenges Faced}
+    \frametitle{Challenges}
+        \begin{itemize}
+            \item Allocation of work in team. 
+            \item Project sharing was difficult.
+            \item Learning a new framework and completing the project in 3 weeks.
+            \item Exploring options to make the game more engaging.
+            
+        \end{itemize}
+    \end{frame}
+
+\section{RESOURCES}
+    \begin{frame}{Resources}
+    \frametitle{Resources}
+        \begin{itemize}
+            \item For learning Unity: https://docs.unity3d.com/Manual/index.html 
+            \item For learning C\# : https://docs.microsoft.com/en-us/dotnet/csharp/
+            \item For assests- opengameart3d, itch.io
+            
+        \end{itemize}
+ \end{frame}
+
+%-----------------------------------------------------------
+
+
+
+\section*{Acknowledgement}  
+\begin{frame}
+\textcolor{myNewColorA}{\Huge{\centerline{Thank you!}}}
+\end{frame}
+\end{document}
+
