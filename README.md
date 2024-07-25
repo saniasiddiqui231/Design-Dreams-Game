@@ -24,8 +24,8 @@ As players accumulate points, they can choose which items to repair or purchase 
 
 ### Walkthrough
 
-- (video)
-- (screenshots)
+<iframe width="560" height="315" src="https://youtu.be/ee0m1sj10mU?si=jxq9xzwLz5aN0XXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Key Features
 
