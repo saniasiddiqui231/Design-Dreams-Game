@@ -22,9 +22,9 @@ To help Ivy fix her house, players must earn points by solving various engaging 
 
 As players accumulate points, they can choose which items to repair or purchase new furniture and decorations. The game features a range of customization options, allowing players to create a home that reflects their personal style while meeting Ivy's needs.
 
-### Walkthrough
+### Walkthrough Video
 
-<iframe width="560" height="315" src="https://youtu.be/ee0m1sj10mU?si=jxq9xzwLz5aN0XXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/ee0m1sj10mU?si=jxq9xzwLz5aN0XXQ
 
 
 ## Key Features
