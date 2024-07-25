@@ -44,13 +44,11 @@ As players accumulate points, they can choose which items to repair or purchase 
 - Unity 6 version 6000.0.8f1
 
 ## Usage
-- Clone the repository
+- Go to DesignDreams file.
 
-``` git clone https://gitlab.com/we-team3/mission-impractical.git ```
-- Navigate to the directory
-
-``` cd Design-Dreams-Game```
-- Extract the folder DesignDreams
+- Download DesignDreams folder through the link.
+  
+- Extract the folder.
 
 - Open in Unity 6.
 
