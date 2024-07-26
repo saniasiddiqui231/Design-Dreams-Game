@@ -46,7 +46,7 @@ As players accumulate points, they can choose which items to repair or purchase 
 
 ### Object-Oriented Programming (OOP) Concepts
 
-Design Dream serves as a comprehensive project for learning and applying Object-Oriented Programming (OOP) principles. Throughout the development process, key OOP concepts such as encapsulation, inheritance, and polymorphism are utilized to create a robust and maintainable codebase.
+Design Dreams serves as a comprehensive project for learning and applying Object-Oriented Programming (OOP) principles. Throughout the development process, key OOP concepts such as encapsulation, inheritance, and polymorphism are utilized to create a robust and maintainable codebase.
 
 - **Encapsulation**: Classes are designed to encapsulate data and behavior, promoting a modular and organized code structure.
 - **Inheritance**: Common behaviors are abstracted into base classes, allowing for code reuse and extension through derived classes.
