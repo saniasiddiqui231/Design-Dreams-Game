@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to **Design Dream**, an exciting and heartwarming game that blends the thrill of puzzle-solving with the joy of home decoration. Follow Ivy's journey as she prepares for an important visit from her parents, transforming her house from a disheveled mess into a cozy, welcoming home.
+Welcome to **Design Dream**, an exciting and heartwarming game, inspired by **Homescapes**, that blends the thrill of puzzle-solving with the joy of home decoration. Follow Ivy's journey as she prepares for an important visit from her parents, transforming her house from a disheveled mess into a cozy, welcoming home.
 
 ## Storyline
 
