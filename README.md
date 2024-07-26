@@ -57,18 +57,6 @@ This project emphasizes the practical application of C# in game development, lev
 - **Programming Language**: C#
 - **Game Development Engine**: Unity
 
-### Installation
-
-1. Ensure Unity version 2021.3.12f1 or later is installed.
-2. Download the DesignDreams folder through the provided link.
-3. Extract the folder.
-4. Open the project in Unity.
-
-### Usage
-
-1. Navigate to the DesignDreams folder.
-2. Open the project in Unity.
-3. Press the Play button in Unity to start the game.
 
 ## Resources
 
