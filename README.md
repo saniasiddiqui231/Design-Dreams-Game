@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to **Design Dream**, an exciting and heartwarming game, inspired by **Homescapes**, that blends the thrill of puzzle-solving with the joy of home decoration. Follow Ivy's journey as she prepares for an important visit from her parents, transforming her house from a disheveled mess into a cozy, welcoming home.
+Welcome to **Design Dream**, an immersive and heartwarming game inspired by **Homescapes**. This game combines the excitement of puzzle-solving with the creativity of home decoration, all while following Ivy's journey to transform her house into a cozy, welcoming home before her parents visit.
 
 ## Storyline
 
@@ -24,8 +24,7 @@ As players accumulate points, they can choose which items to repair or purchase 
 
 ### Walkthrough Video
 
-https://youtu.be/ee0m1sj10mU?si=jxq9xzwLz5aN0XXQ
-
+[Watch the walkthrough video](https://youtu.be/ee0m1sj10mU?si=jxq9xzwLz5aN0XXQ)
 
 ## Key Features
 
@@ -34,29 +33,46 @@ https://youtu.be/ee0m1sj10mU?si=jxq9xzwLz5aN0XXQ
 - **Heartwarming Storyline**: Follow Ivy's emotional journey as she reconnects with her parents through her efforts to create a perfect home.
 - **Rewarding Progression**: Earn points and rewards for completing puzzles, making visible progress in the game's storyline and home improvement goals.
 
-## Tech Stacks
+## Technical Details
 
-- Programming Language -> C#
-- Game Development Engine -> Unity
+### Object-Oriented Programming (OOP) Concepts
 
-## Installation
+Design Dream serves as a comprehensive project for learning and applying Object-Oriented Programming (OOP) principles. Throughout the development process, key OOP concepts such as encapsulation, inheritance, and polymorphism are utilized to create a robust and maintainable codebase.
 
-- Unity 6 version 6000.0.8f1
+- **Encapsulation**: Classes are designed to encapsulate data and behavior, promoting a modular and organized code structure.
+- **Inheritance**: Common behaviors are abstracted into base classes, allowing for code reuse and extension through derived classes.
+- **Polymorphism**: Interfaces and abstract classes are employed to enable flexible and interchangeable implementations.
 
-## Usage
-- Go to DesignDreams file.
+### C# and Unity Integration
 
-- Download DesignDreams folder through the link.
-  
-- Extract the folder.
+This project emphasizes the practical application of C# in game development, leveraging Unity as the primary development engine.
 
-- Open in Unity 6.
+- **Programming Language**: C#
+  - C# is used for scripting game logic, managing game states, and handling user interactions.
+- **Game Development Engine**: Unity
+  - Unity provides a powerful platform for creating 2D and 3D games, offering features such as a physics engine, animation tools, and asset management.
+
+### Tech Stack
+
+- **Programming Language**: C#
+- **Game Development Engine**: Unity
+
+### Installation
+
+1. Ensure Unity version 2021.3.12f1 or later is installed.
+2. Download the DesignDreams folder through the provided link.
+3. Extract the folder.
+4. Open the project in Unity.
+
+### Usage
+
+1. Navigate to the DesignDreams folder.
+2. Open the project in Unity.
+3. Press the Play button in Unity to start the game.
 
 ## Resources
 
-- For learning Unity: https://docs.unity3d.com/Manual/index.html 
-- For learning C#: https://docs.microsoft.com/en-us/dotnet/csharp/
+- [Learning Unity](https://docs.unity3d.com/Manual/index.html)
+- [Learning C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-
-
-
+By working on Design Dream, we have not only created an enjoyable game but also deepened our understanding of object-oriented programming, honed our C# skills, and gained valuable experience with the Unity game development engine.
